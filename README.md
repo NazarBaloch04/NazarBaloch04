@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-NazarBaloch04/NazarBaloch04 is a ✨ special ✨ repository because its `README.md` () appears on your GitHub profile.
+NazarBaloch04/NazarBaloch04 is a ✨ special ✨ repository because its `README.md` (https://github.com/NazarBaloch04/third.js.git) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
